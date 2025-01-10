@@ -13,7 +13,6 @@
 <p style="padding: 1rem;">👯 <strong>I’m looking to collaborate on:</strong> Full-Stack Projects</p>
 <p style="padding: 1rem;">💡 <strong>Passionate about:</strong> Building scalable, efficient, and user-friendly applications</p>
 <p style="padding: 1rem;">📚 <strong>Currently exploring:</strong> Advanced React, TypeScript, and Cloud Technologies</p>
-<p style="padding: 1rem;">📫 <strong>How to reach me:</strong> <a>shiva4850t@gmail.com</a></p>
 
 
 ---
