@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #E4566E; font-family: 'Arial', sans-serif; font-size: 3em; font-weight: bold;">Hey 👋, I'm Shivanshu Tripathi!</h1>
+<h1 align="center" style="color: #E4566E; font-family: 'Helvetica Neue', sans-serif; font-size: 3em; font-weight: bold;">Hey 👋, I'm Shivanshu Tripathi!</h1>
 <h3 align="center" style="color: #E96777; font-family: 'Arial', sans-serif; font-size: 1.5em;">A passionate Full-Stack Developer from India</h3>
 
 <p align="center">
@@ -9,16 +9,16 @@
 </p>
 
 ---
+<p style="padding: 1rem;">🌱 <strong>I’m currently learning:</strong> MERN Stack</p>
+<p style="padding: 1rem;">👯 <strong>I’m looking to collaborate on:</strong> Full-Stack Projects</p>
+<p style="padding: 1rem;">💡 <strong>Passionate about:</strong> Building scalable, efficient, and user-friendly applications</p>
+<p style="padding: 1rem;">📚 <strong>Currently exploring:</strong> Advanced React, TypeScript, and Cloud Technologies</p>
+<p style="padding: 1rem;">📫 <strong>How to reach me:</strong> <a>shiva4850t@gmail.com</a></p>
 
-🌱 **I’m currently learning:** MERN Stack 
-👯 **I’m looking to collaborate on:** Full-Stack Projects  
-💡 **Passionate about:** Building scalable, efficient, and user-friendly applications  
-📚 **Currently exploring:** Advanced React, TypeScript, and Cloud Technologies  
-📫 **How to reach me:** shiva4850t@gmail.com
 
 ---
 
-<h3 align="center">💻 Tech Stack:</h3>
+<h3 align="center" style=" padding: 2rem;">💻 Tech Stack:</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
